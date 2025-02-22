@@ -28,7 +28,6 @@ Ensure you have the following installed:
 ### Clone the Repository
 ```sh
 git clone https://github.com/imadmurr/universitydb.git
-cd universitydb
 ```
 
 ### Install Required Dependencies
