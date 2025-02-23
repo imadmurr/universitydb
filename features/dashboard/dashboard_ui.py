@@ -4,7 +4,7 @@ import shared.theme as theme
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
-class HomeUI:
+class DashboardUI:
     def __init__(self, parent):
         self.frame = tk.Frame(parent, bg=theme.BG_COLOR)
 
